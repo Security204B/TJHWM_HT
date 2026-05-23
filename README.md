@@ -1,4 +1,4 @@
-# TJHWM_HT
+# Tj-HWM: HLS Trojan Attack on HLS-based Watermarked Hardware IPs
 
 **The HLS framework used, is implemented as three modules.** The three major modules are: 
 
