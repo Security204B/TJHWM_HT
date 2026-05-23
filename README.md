@@ -22,3 +22,4 @@ Note: The jdk can be downloaded and installed from the following: https://javadl
 
 -- A. Sengupta, S. Bhadauria, S. Mohanty "Embedding Low Cost Optimal Watermark During High Level Synthesis for Reusable IP Core Protection", **Proc. of 48th IEEE Int'l Symposium on Circuits & Systems (ISCAS)**, Montreal, May 2016, pp. 974 - 977.
 
+
