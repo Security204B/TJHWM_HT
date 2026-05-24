@@ -1,6 +1,6 @@
 # Tj-HWM: HLS Trojan Attack on HLS-based Watermarked Hardware IPs
 
-**The HLS framework used for evaluating/implementing proposed Tj-HWM, is executed in three consecutive modules.** The three major modules are described below. The HLS Tool files of the three modules are also included as a zipped folder "HLS Tool Files.zip". 
+**The HLS framework/tool used for evaluating/implementing proposed Tj-HWM, is executed in three consecutive modules.** The three major modules are described below. The HLS Tool files of the three modules are also included as a zipped folder "HLS Tool Files.zip". 
 
 **(1) HLS Front End:** This is performed using our HLS HLT Tool. The Tool requires java development kit (jdk) installed for executing the HLS HLT tool. The HLS HLT Tool converts a raw DFG into a processed/transformed DFG (i.e. intermediate representation (IR)) using a set of structural compiler transformation techniques such as THT, LU, LICM, ROE etc (adopted from the references below).
 
