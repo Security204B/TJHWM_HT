@@ -1,5 +1,15 @@
 # Tj-HWM: HLS Trojan Attack on HLS-based Watermarked Hardware IPs
 
+The HLS Benchmarks in the form of high level description (transfer function) and it associated intermediate representation (IR) as CDFG/DFG is provided in the "HLS Benchmarks.pdf", also publicly available in: 
+https://www.anirban-sengupta.com/HLS%20Benchmarks%20Details.pdf
+
+The relevant research paper citations, where the high level description (transfer function) and it associated intermediate representation (IR) as CDFG/DFG is described, is also present in the PDF file.
+
+
+**************************************************************************
+**HLS Framework/Tool**
+**************************************************************************
+
 **The HLS framework/tool used for evaluating/implementing proposed Tj-HWM, is executed in three consecutive modules.** The three major modules are described below. The HLS Tool files of the three modules are also included as a zipped folder "HLS Tool Files.zip". 
 
 **(1) HLS Front End:** This is performed using our HLS HLT Tool. The Tool requires java development kit (jdk) installed for executing the HLS HLT tool. The HLS HLT Tool converts a raw DFG into a processed/transformed DFG (i.e. intermediate representation (IR)) using a set of structural compiler transformation techniques such as THT, LU, LICM, ROE etc (adopted from the references below).
